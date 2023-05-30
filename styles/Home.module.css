@@ -1,0 +1,87 @@
+.hero {
+  text-align: center;
+  overflow-x: hidden;
+  margin: 2em;
+  text-align: center;
+  overflow-x: hidden;
+  padding-bottom: 2em;
+}
+
+.summary {
+  width: 500px;
+  margin: auto;
+  line-height: 1.5em;
+  text-align: center;
+  font-weight: bold;
+  padding: 20px 0;
+}
+.mainContainer{
+  margin: 20px;;
+}
+.headline{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #023047;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 10px 0;
+  text-decoration: underline;
+}
+
+.headlineh2{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #ffb703;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 10px 0;
+  text-decoration: underline;
+}
+
+.habitdescription{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 300;
+  font-size: 17px;
+  text-align: left;
+}
+.habitcontainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  gap:20px;
+
+}
+.habitItemcontainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  gap:20px;
+}
+.habitImg{
+  padding: 10px;
+}
+.habitdtl{
+  margin-top: 0px;
+}
+
+.webnavigation ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0 20px 0;
+  background-color: #fb8500;
+  font-size: medium;
+}
+
+.lidiv{
+  padding: 0 50px 0 0px;
+}
+
+.webnavigation a{
+  text-decoration: none;
+  color: black;
+}
+
+.webnavigation a:hover{
+  text-decoration: none;
+  color: #8ecae6
+}
